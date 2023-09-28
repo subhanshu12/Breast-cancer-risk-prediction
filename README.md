@@ -34,3 +34,6 @@ In this notebook, I construct a predictive model using SVM machine learning algo
 **Notebook goal: Construct predictive models to predict the diagnosis of a breast tumor.** 
 In this notebook, I aim to tune parameters of the SVM Classification model using scikit-learn.
 
+
+by - Subhanhshu tripathi
+
